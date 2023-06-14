@@ -21,19 +21,18 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __React-Bootstra
 
 ![Checklist Master](./Screenshots/Checklist%20Master.jpeg)
 
-### User Profile Screen
+### Material Master Screen
 
 ![Material Master](./Screenshots/Material%20Master.jpeg)
 
-### Customer Order Screen
+### Create Material Screen
 
-![Material Master](./Screenshots/Material%20Master.jpeg)
+![Create Material](./Screenshots/Create%20Material.jpeg)
 
+### Loading Screen
 
-### Admin Order Screen
+![Loading](./Screenshots/Loading%20Screen.jpeg)
 
-![Screenshot (58)](https://user-images.githubusercontent.com/47227715/124158607-bfff9300-dab7-11eb-96cf-e15b357b212a.png)
+### Add Truck Screen
 
-### Admin Product List Screen -->
-
-![Screenshot (59)](https://user-images.githubusercontent.com/47227715/124158743-e58c9c80-dab7-11eb-9327-efb14ce753a7.png)
+![Add Truck](./Screenshots/Add%20Truck.jpeg)
