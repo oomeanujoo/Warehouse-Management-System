@@ -17,17 +17,18 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __React-Bootstra
 
 ![Mapping](./Screenshots/Mapping.jpeg)
 
-### Cart Screen
+### Checklist Master Screen
 
-![Screenshot (52)](https://user-images.githubusercontent.com/47227715/124158409-82026f00-dab7-11eb-8d7b-2ee82bea4c3a.png)
+![Checklist Master](./Screenshots/Checklist%20Master.jpeg)
 
 ### User Profile Screen
 
-![Screenshot (53)](https://user-images.githubusercontent.com/47227715/124158490-99d9f300-dab7-11eb-941d-989436862591.png)
+![Material Master](./Screenshots/Material%20Master.jpeg)
 
 ### Customer Order Screen
 
-![Screenshot (57)](https://user-images.githubusercontent.com/47227715/124158581-b6762b00-dab7-11eb-8308-c5665e38b8bd.png)
+![Material Master](./Screenshots/Material%20Master.jpeg)
+
 
 ### Admin Order Screen
 
